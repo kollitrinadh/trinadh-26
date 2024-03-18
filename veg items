@@ -1,0 +1,12 @@
+<html>
+    <style>
+        * {
+             background-image: url('./background\ image.png');
+         }
+    <h1 style="color: rgb(214, 7, 17);"><center>menu page:-</center></h1>
+    <h2>veg items:-</h2>
+    <img src="./veg item.jpg" width="280" height="230"><br><br>
+    <span><button><a href="./veg biryani.jpg" width="200" height="180">1.veg biryani</button></a></span><br><br>
+    <span><button><a href="./veg fride rice.jpg" width="200" height="180">2.veg fride rice</button></a></span><br><br>
+    <span><button><a href="./veg meals.JPG" width="200" height="180">3.veg meals</button></a></span><br>
+</html>

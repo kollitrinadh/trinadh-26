@@ -1,0 +1,13 @@
+<html>
+    <style>
+       * {
+            background-image: url('./background\ image.png');
+        }
+    </style> 
+    <h2>non veg items:-</h2>
+    <img src="./non veg items.jpg" width="280" height="250"><br><br>
+
+<span><button><a href="./Chicken-Biryani-Recipe.png">1.chicken biryani</button></a></span><br><br>
+<span><button><a href="./motton biryani.jpg">2.mutton biryani</button></a></span><br><br>
+<span><button><a href="./prawns biryani.jpg">3.prawns biryani</button></a></span>
+</html>
